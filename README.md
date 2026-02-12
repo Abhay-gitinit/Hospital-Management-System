@@ -6,6 +6,13 @@ This project is designed to simulate a **real-world healthcare workflow**, focus
 
 ---
 
+## 📂 Repositories
+
+- 🔗 Frontend: `hospital-react-client`(https://github.com/Ayanokojl/Hospital-react-client)
+- 🔗 Backend: `hospital-server`(https://github.com/Ayanokojl/hospital-server)
+
+---
+
 ## ✨ Key Features
 
 ### 👤 Patient Side
@@ -93,13 +100,6 @@ This project goes beyond CRUD:
 - Shows understanding of **auth, roles, and data consistency**
 - Built with scalability and clarity in mind
 - Structured like a production-ready system, not a demo app
-
----
-
-## 📂 Repositories
-
-- 🔗 Frontend: `hospital-react-client`(https://github.com/Ayanokojl/Hospital-react-client)
-- 🔗 Backend: `hospital-server`(https://github.com/Ayanokojl/hospital-server)
 
 ---
 
